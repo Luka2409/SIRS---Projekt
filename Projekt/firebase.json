@@ -1,0 +1,6 @@
+{
+    "hosting": {
+        "site": "api-sirs-projekt1",
+        "public": "public"
+    }
+}
