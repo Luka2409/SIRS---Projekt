@@ -1,7 +1,7 @@
 {
     "hosting": {
         "site": "api-sirs-projekt1",
-        "public": "Projekt/public",
+        "public": "Projekt",
         "ignore": [
             "firebase.json",
             "**/.*",
