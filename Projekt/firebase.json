@@ -1,11 +1,10 @@
 {
-    "hosting": {
-        "site": "api-sirs-projekt1",
-        "public": "Projekt",
-        "ignore": [
-            "firebase.json",
-            "**/.*",
-            "**/node_modules/**"
-        ]
-    }
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
 }
